@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sibisan Catalin
-Web Developer and Web Designer
+<h1>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sibisan Catalin.</h1>
+<h3>Web Developer and Web Designer.</h3>
 I am a enthusiast web developer. I started learning 4 years ago, and so far I have managed to do several interesting projects. And now I want to go further and work in the field, so you can contact me by email or on the Instagram page!
 * 🌍  I'm based in Romania* 
 * ✉️  You can contact me at [catalin.andrei.sibisan@gmail.com](mailto:catalin.andrei.sibisan@gmail.com )
